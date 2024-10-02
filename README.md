@@ -10,4 +10,4 @@ COMING SOON.
 * **[C#](./CSharp)**  
 A short tutorial on how to get started with instrument automation in C# as well as supplemental code. 
 * **[VB](./VB)**  
-COMING SOON.
+A short tutorial on how to get started with instrument automation in VB as well as supplemental code. 
